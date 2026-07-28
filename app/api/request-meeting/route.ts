@@ -56,7 +56,7 @@ export async function POST(request: Request) {
     const { error } = await resend.emails.send({
       from: fromAddress,
       to: volunteer.email,
-      replyTo: studentEmail,
+      reply_to: studentEmail,
       subject: `New meeting request from ${studentName}`,
       html: `
         <p>Hi ${safe(volunteer.name)},</p>
