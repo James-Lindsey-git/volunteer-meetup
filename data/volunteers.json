@@ -1,0 +1,29 @@
+[
+  {
+    "id": "amara-lee",
+    "name": "Amara Lee",
+    "email": "amara.lee.volunteer@example.com",
+    "photo": "https://api.dicebear.com/7.x/notionists/svg?seed=Amara",
+    "tagline": "College tutor & board game enthusiast",
+    "bio": "I'm a sophomore studying biology and I love helping students prep for tests, plus I'm always up for a board game session to unwind.",
+    "activities": ["Homework help", "Board games", "Campus tour"]
+  },
+  {
+    "id": "jordan-patel",
+    "name": "Jordan Patel",
+    "email": "jordan.patel.volunteer@example.com",
+    "photo": "https://api.dicebear.com/7.x/notionists/svg?seed=Jordan",
+    "tagline": "Musician & basketball fan",
+    "bio": "I play guitar and love shooting hoops. Happy to jam together, talk about music, or just hang out and chat about school.",
+    "activities": ["Music jam session", "Shooting hoops", "Coffee chat"]
+  },
+  {
+    "id": "sofia-martinez",
+    "name": "Sofia Martinez",
+    "email": "sofia.martinez.volunteer@example.com",
+    "photo": "https://api.dicebear.com/7.x/notionists/svg?seed=Sofia",
+    "tagline": "Art student & baker",
+    "bio": "I study fine arts and love painting, drawing, and baking. I'd love to do a creative activity with you or just talk about your favorite art.",
+    "activities": ["Painting/drawing", "Baking", "Museum visit"]
+  }
+]
