@@ -1,12 +1,12 @@
 [
   {
-    "id": "amara-lee",
-    "name": "Amara Lee",
-    "email": "amara.lee.volunteer@example.com",
-    "photo": "https://api.dicebear.com/7.x/notionists/svg?seed=Amara",
-    "tagline": "College tutor & board game enthusiast",
-    "bio": "I'm a sophomore studying biology and I love helping students prep for tests, plus I'm always up for a board game session to unwind.",
-    "activities": ["Homework help", "Board games", "Campus tour"]
+    "id": "james-lindsey",
+    "name": "James Lindsey",
+    "email": "jiraffelete@gmail.com",
+    "photo": "https://api.dicebear.com/7.x/notionists/svg?seed=James",
+    "tagline": "Davis High senior and baseball captain",
+    "bio": "I'm a dedicated student athlete, but I'm always up to go out and chill or go to the park and play some sports.",
+    "activities": ["Sports in the park", "Going out to eat", "Playing board games"]
   },
   {
     "id": "jordan-patel",
