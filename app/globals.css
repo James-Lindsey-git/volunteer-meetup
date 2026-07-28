@@ -8,12 +8,11 @@ html {
 
 body {
   min-height: 100vh;
-  color: #3a2a20;
-  background: linear-gradient(180deg, #fff1e6 0%, #ffe0c7 35%, #ffc9a8 70%, #ffb08a 100%);
-  background-attachment: fixed;
+  color: #1c1917;
+  background-color: #fdfaf5;
 }
 
 :focus-visible {
-  outline: 3px solid #ee6c2f;
+  outline: 3px solid #0d9488;
   outline-offset: 2px;
 }
