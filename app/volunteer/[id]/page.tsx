@@ -22,7 +22,7 @@ export default function VolunteerProfilePage({
   return (
     <div className="max-w-2xl mx-auto">
       <Link
-        href="/"
+        href="/volunteers"
         className="text-sm font-medium text-brand-600 hover:underline"
       >
         &larr; Back to all volunteers

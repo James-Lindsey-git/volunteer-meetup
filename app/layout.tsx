@@ -23,12 +23,12 @@ export default function RootLayout({
         </a>
         <header className="border-b border-gray-200 bg-white">
           <div className="mx-auto max-w-5xl px-4 py-4 flex items-center justify-between">
-            <a href="/" className="text-lg font-semibold text-brand-700">
+            <a href="/" className="text-xl font-extrabold tracking-tight text-brand-600">
               Volunteer Meetup
             </a>
             <nav aria-label="Main navigation">
               <a
-                href="/"
+                href="/volunteers"
                 className="text-sm font-medium text-gray-600 hover:text-brand-700"
               >
                 Browse Volunteers
