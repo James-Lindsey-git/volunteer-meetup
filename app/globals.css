@@ -7,11 +7,13 @@ html {
 }
 
 body {
-  background-color: #f7f9fc;
-  color: #1a2233;
+  min-height: 100vh;
+  color: #3a2a20;
+  background: linear-gradient(180deg, #fff1e6 0%, #ffe0c7 35%, #ffc9a8 70%, #ffb08a 100%);
+  background-attachment: fixed;
 }
 
 :focus-visible {
-  outline: 3px solid #2f6fed;
+  outline: 3px solid #ee6c2f;
   outline-offset: 2px;
 }

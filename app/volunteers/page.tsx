@@ -24,7 +24,7 @@ export default function VolunteersPage() {
           <li key={volunteer.id}>
             <Link
               href={`/volunteer/${volunteer.id}`}
-              className="block h-full rounded-xl border border-gray-200 bg-white p-5 shadow-sm transition hover:shadow-md hover:border-brand-500 focus-visible:shadow-md"
+              className="block h-full rounded-xl border border-orange-100 bg-white/90 p-5 shadow-sm transition hover:shadow-md hover:border-brand-500 focus-visible:shadow-md"
             >
               <div className="flex items-center gap-3">
                 <Image

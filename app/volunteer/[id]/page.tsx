@@ -28,7 +28,7 @@ export default function VolunteerProfilePage({
         &larr; Back to all volunteers
       </Link>
 
-      <div className="mt-4 rounded-xl border border-gray-200 bg-white p-6 shadow-sm">
+      <div className="mt-4 rounded-xl border border-orange-100 bg-white/90 p-6 shadow-sm">
         <div className="flex items-center gap-4">
           <Image
             src={volunteer.photo}
@@ -65,7 +65,7 @@ export default function VolunteerProfilePage({
         </div>
       </div>
 
-      <div className="mt-6 rounded-xl border border-gray-200 bg-white p-6 shadow-sm">
+      <div className="mt-6 rounded-xl border border-orange-100 bg-white/90 p-6 shadow-sm">
         <h2 className="text-lg font-semibold text-gray-900">
           Request a meeting with {volunteer.name}
         </h2>

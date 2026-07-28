@@ -21,7 +21,7 @@ export default function RootLayout({
         >
           Skip to main content
         </a>
-        <header className="border-b border-gray-200 bg-white">
+        <header className="border-b border-orange-100 bg-white/70 backdrop-blur-sm sticky top-0 z-10">
           <div className="mx-auto max-w-5xl px-4 py-4 flex items-center justify-between">
             <a href="/" className="text-xl font-extrabold tracking-tight text-brand-600">
               Volunteer Meetup
