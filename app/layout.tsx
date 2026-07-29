@@ -18,7 +18,9 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
               <span className="text-lg font-black text-stone-900">Volunteer<span className="text-brand-600">Meetup</span></span>
             </a>
             <nav aria-label="Main navigation">
-              <a href="/volunteers" className="text-sm font-bold text-stone-600 hover:text-brand-700">Browse Volunteers</a>
+              <a href="/volunteers" className="text-sm font-bold text-stone-600 hover:text-brand-700">Browse Volunteers</a><a href="/volunteer-signup" className="text-sm font-medium text-gray-600 hover:text-brand-700 ml-4">
+  Become a Volunteer
+</a>
             </nav>
           </div>
         </header>
