@@ -31,8 +31,7 @@ export async function POST(request: Request) {
       return NextResponse.json(
         {
           error:
-            "Volunteer sign-up isn't fully configured yet. Please contact the site owner.",
-        },
+            `Debug: apiKey present = ${!!apiKey}, adminEmail present = ${!!adminEmail}`,
         { status: 500 }
       );
     }
